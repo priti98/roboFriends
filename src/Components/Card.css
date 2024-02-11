@@ -1,0 +1,15 @@
+.basic{
+    background-color: lightgreen;
+    display: inline-block;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 3px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 6px 6px gray;
+}
+
+.basic:hover{
+    transform: scale(1.1);
+}

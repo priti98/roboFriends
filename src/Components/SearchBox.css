@@ -1,0 +1,11 @@
+.style{
+    padding: 3px;
+    border: 2px solid green;
+    color: black;
+    background-color: lightblue;
+    margin-bottom: 6px;
+}
+.center {
+    text-align: center;
+  }
+  
